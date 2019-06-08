@@ -1,0 +1,20 @@
+
+@font-face {
+    font-family: 'KimNamyun';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/KimNamyun.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body {
+    color: #89c6ee;
+    background: rgba(126, 152, 223, 0.849);
+    font-family: "KimNamyun", serif;
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
+    background-color: #22133a;
+    align-items: center;
+    padding-left: 200px; 
+    
+}

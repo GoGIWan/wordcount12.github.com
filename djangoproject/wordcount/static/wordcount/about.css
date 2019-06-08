@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'KimNamyun';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/KimNamyun.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.hero {
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+    padding-top: 110px;
+    min-height: 200px;
+    letter-spacing: 2px;
+    font-family: "Montserrat", sans-serif;
+    background-color: #22133a
+}
